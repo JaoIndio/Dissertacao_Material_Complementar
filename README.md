@@ -1,5 +1,26 @@
 
-Este repositórios esta organizado assim assim assado
-Video 1
-https://github.com/user-attachments/assets/0c9773dd-5d10-4e46-bdf3-d2e189c0948f
+# Mapa do Repositório
+<br/><br/>
 
+
+### `/simulaçoes`
+
+- Simulações do diodo laser e do LED
+- `/codigos` códigos que geram as simulações além de **Instruções para Executar Simulações**.
+<br/><br/>
+
+
+### `/firmware`
+
+- Código fonto de MCU
+<br/><br/>
+
+
+### `/FFT`
+
+- Geração das Funções Espectrais
+<br/><br/>
+
+### `/AquisicaoDados`
+
+- Aquisição de Dados
